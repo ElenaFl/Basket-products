@@ -1,0 +1,23 @@
+.card {
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 1rem;
+    background: #c3c3c3;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.cardTitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.cardDescription {
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.cardButton {
+    font-size: 1rem;
+    font-weight: normal;
+}

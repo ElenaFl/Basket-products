@@ -1,0 +1,11 @@
+:root {
+    --swiper-theme-color: oklch(51.1% 0.262 276.966);
+}
+
+.swiper-button-prev {
+    --swiper-navigation-sides-offset: 75px;
+}
+
+.swiper-button-next {
+    --swiper-navigation-sides-offset: 75px;
+}
